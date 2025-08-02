@@ -28,7 +28,7 @@ Visualization: Chart.js, D3.js, or Matplotlib
 
 Optional: Firebase or Supabase for user state
 
-Project Goals:
+## Project Goals:
 
 Create something resume-ready that blends API use, data visualization, and UX design
 
