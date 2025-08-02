@@ -10,29 +10,22 @@ This interactive web app lets users explore their personal Spotify listening dat
 🎵 Personal Listening Insights
 - View top tracks, artists, genres, and more based on personal playback history.
 
-📆 Flexible Timeframe Slider
-- Choose any window from the past 12 months to the present — not locked to Spotify's static ranges.
+📆 Flexible Timeframe
+- Choose a short/medium/long-term window in which your results are gathered.
 
-📊 Visual Stats and Infographics
-- Generate charts and shareable graphics for platforms like Instagram, TikTok, or Twitter.
+Skills Gained:
+*OAuth2 Authorization Flow (Spotify)*
+You successfully built login, callback, and token storage from scratch.
 
-## 💻 Tech Stack Highlights
+*Session handling with FastAPI + Starlette*
+You stored and reused access tokens across requests — a big web dev milestone.
 
-Frontend: React / Next.js or similar
+*Ngrok setup for local development*
+You configured HTTPS tunneling for real-world API testing.
 
-Backend: Python (Flask or FastAPI) or Node.js
+*Environment variable management*
+You safely hid credentials using .env and dotenv.
 
-Data: Spotify Web API
-
-Visualization: Chart.js, D3.js, or Matplotlib
-
-Optional: Firebase or Supabase for user state
-
-## Project Goals:
-
-Create something resume-ready that blends API use, data visualization, and UX design
-
-Make a shareable product users are excited to explore and post
-
-Practice real-world full-stack dev with a strong data science component
+*API querying & response handling*
+You pulled real user data and parsed JSON in your backend.
 
