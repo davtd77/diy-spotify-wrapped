@@ -1,15 +1,38 @@
-# diy-spotify-wrapped
-An interactive app that visualizes your Spotify listening trends over time (up to 1 year).
+# DIY Spotify Wrapped — Custom Spotify Listening Stats Explorer
+Overview:
+This interactive web app lets users explore their personal Spotify listening data over custom time frames — not just the default "past month," "6 months," or "all time" views offered by Spotify. Inspired by the popular Spotify Wrapped, the app uses the Spotify Web API to create a deeper, more flexible and shareable experience.
 
-This project is an interactive web app that lets users explore their Spotify listening data over a custom time frame — not just generic "last month," "6 months," or "all-time" summaries. Inspired by Spotify Wrapped, the app pulls personalized streaming data via the Spotify Web API and allows users to:
+Key Features:
 
-Authenticate securely with their Spotify account
+🔐 Secure Spotify Authentication
+Users log in via OAuth to connect their Spotify accounts safely.
 
-View their top songs, artists, and genres
+🎵 Personal Listening Insights
+View top tracks, artists, genres, and more based on personal playback history.
 
-Slide between different time windows from the past year to the present
+📆 Flexible Timeframe Slider
+Choose any window from the past 12 months to the present — not locked to Spotify's static ranges.
 
-Generate clean, visual summaries to share (charts, infographics, etc.)
+📊 Visual Stats and Infographics
+Generate charts and shareable graphics for platforms like Instagram, TikTok, or Twitter.
 
-The goal is to build something resume-worthy and engaging, blending data scraping, visualization, and interactivity — with potential to share outputs to platforms like Instagram.
+💻 Tech Stack Highlights
+
+Frontend: React / Next.js or similar
+
+Backend: Python (Flask or FastAPI) or Node.js
+
+Data: Spotify Web API
+
+Visualization: Chart.js, D3.js, or Matplotlib
+
+Optional: Firebase or Supabase for user state
+
+Project Goals:
+
+Create something resume-ready that blends API use, data visualization, and UX design
+
+Make a shareable product users are excited to explore and post
+
+Practice real-world full-stack dev with a strong data science component
 
