@@ -13,19 +13,19 @@ This interactive web app lets users explore their personal Spotify listening dat
 📆 Flexible Timeframe
 - Choose a short/medium/long-term window in which your results are gathered.
 
-Skills Gained:
+## Skills Gained:
 *OAuth2 Authorization Flow (Spotify)*
-You successfully built login, callback, and token storage from scratch.
+- Successfully built login, callback, and token storage.
 
 *Session handling with FastAPI + Starlette*
-You stored and reused access tokens across requests — a big web dev milestone.
+- Stored and reused access tokens across requests.
 
 *Ngrok setup for local development*
-You configured HTTPS tunneling for real-world API testing.
+- Configured HTTPS tunneling for real-world API testing.
 
 *Environment variable management*
-You safely hid credentials using .env and dotenv.
+- Hid credentials using .env and dotenv.
 
 *API querying & response handling*
-You pulled real user data and parsed JSON in your backend.
+- Pulled real user data and parsed JSON in the backend.
 
